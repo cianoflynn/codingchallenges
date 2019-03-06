@@ -1,2 +1,2 @@
-# codingchallenges
-Solutions to Coding Challanges
+# Solutions to Coding Challenges
+
